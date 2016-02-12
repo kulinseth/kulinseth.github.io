@@ -1,0 +1,10 @@
+#name: Kulin Seth
+#email: kulinseth@gmail.com
+description: Central place to maintain work ...
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://kulinseth.github.com" # the base hostname & protocol for your site
+github_username:  kulinseth
+twitter_username: kulinseth
+
+# Build settings
+markdown: kramdown
